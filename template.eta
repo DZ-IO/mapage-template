@@ -19,7 +19,7 @@
         <div>Copyright © <%= it.date.getFullYear() %> </div>
         <div>
           Powered By
-          <a href="https://github.com/dz-io/MyPage">MyPage</a>
+          <a href="https://github.com/dz-io/mapage">mapage</a>
         </div>
         <div></div>
       </footer>
